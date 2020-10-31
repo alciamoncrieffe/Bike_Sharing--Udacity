@@ -44,7 +44,9 @@ extracted and added the corresponding weather and seasonal information. Weather 
 
 	- Readme.txt
 	- hour.csv : bike sharing counts aggregated on hourly basis. Records: 17379 hours
-	- day.csv - bike sharing counts aggregated on daily basis. Records: 731 days
+	- day.csv : bike sharing counts aggregated on daily basis. Records: 731 days
+	- Bike_Sharing_neural_network.ipynb : notebook where the data is examined and transformed into input to the model, which is then trained and tested.
+	- my_answers.py : where the bike sharing model architechture is defined
 
 	
 # Dataset characteristics
