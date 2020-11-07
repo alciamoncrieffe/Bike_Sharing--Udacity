@@ -1,11 +1,6 @@
 # Bike_Sharing--Udacity
 
-Hadi Fanaee-T
-
-Laboratory of Artificial Intelligence and Decision Support (LIAAD), University of Porto
-INESC Porto, Campus da FEUP
-Rua Dr. Roberto Frias, 378
-4200 - 465 Porto, Portugal
+Build a neural network and use it to predict daily bike rental ridership.
 
 # Background 
 
