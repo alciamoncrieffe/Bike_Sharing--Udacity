@@ -1,6 +1,6 @@
 # Bike_Sharing--Udacity
 
-Build a neural network and use it to predict daily bike rental ridership.
+Deep learning Course Project 1 : Build an MLP neural network and use it to predict daily bike rental ridership.
 
 # Background 
 
